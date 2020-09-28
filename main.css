@@ -142,3 +142,14 @@ a:hover{
 a:active{
     color: green;
 }
+@media(max-width: 980px){
+    #about{
+        padding-top: 100px;
+    }
+    #projects{
+        padding-top: 100px;
+    }
+    #contact{
+        padding-top: 100px;
+    }
+}
