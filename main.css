@@ -135,7 +135,7 @@ a{
 }
 a:link, a:visited{
     cursor: pointer;
-    color: black;
+    color: blue;
 }
 a:hover{
     color: red;
